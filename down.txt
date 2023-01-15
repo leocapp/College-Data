@@ -1,0 +1,232 @@
+
+Name: Bob Builder
+Email: bbuilder@mcc.edu
+BannerID: 109001
+Student Type: FullTime
+Major: Computer Science
+Remaining Balance: 140.23
+***
+Name: Popeye Sailor
+Email: psailor@mcc.edu
+BannerID: 109201
+Student Type: PartTime
+Major: Networking Degree
+Remaining Balance: 900.0
+***
+Name: Donald Duck
+Email: dduck@mcc.edu
+BannerID: 109202
+Student Type: PartTime
+Major: null
+Remaining Balance: 900.0
+***
+Name: Red Riding
+Email: rriding@mcc.edu
+BannerID: 192911
+Student Type: NoMajor
+Major: null
+Remaining Balance: 1198.1
+***
+Name: Mickey Mouse
+Email: mmouse@mcc.edu
+BannerID: 109001
+Student Type: FullTime
+Major: Computer Science
+Remaining Balance: 140.23
+***
+Name: Snow White
+Email: swhite@mcc.edu
+BannerID: 110110
+Title: Professor
+Department: Computer Science
+***
+Name: Blue Duck
+Email: bduck@mcc.edu
+BannerID: 109201
+Student Type: PartTime
+Major: Networking Degree
+Remaining Balance: 900.0
+***
+CRN: 127
+Course Name: Java I
+Credits: 3
+***
+CRN: 128
+Course Name: Java II
+Credits: 3
+***
+Name: Bob Builder
+Email: bbuilder@mcc.edu
+BannerID: 192911
+Student Type: NoMajor
+Major: null
+Remaining Balance: 1198.1
+***
+Name: Woody Woodpecker
+Email: wwoodpecker@mcc.edu
+BannerID: 192912
+Title: Adjunct
+Department: Physics
+***
+CRN: 130
+Course Name: Database Design
+Credits: 3
+***
+CRN: 121
+Course Name: Discrete Math
+Credits: 4
+***
+Name: Leo Cappello
+Email: lcappello@mcc.edu
+BannerID: 192913
+Student Type: FullTime
+Major: Comp Sci
+Remaining Balance: 602.32
+***
+Students Printed Alphabetically:
+
+
+Name: Bob Builder
+Email: bbuilder@mcc.edu
+BannerID: 109001
+Student Type: FullTime
+Major: Computer Science
+Remaining Balance: 140.23
+***
+Name: Bob Builder
+Email: bbuilder@mcc.edu
+BannerID: 192911
+Student Type: NoMajor
+Major: null
+Remaining Balance: 1198.1
+***
+Name: Leo Cappello
+Email: lcappello@mcc.edu
+BannerID: 192913
+Student Type: FullTime
+Major: Comp Sci
+Remaining Balance: 602.32
+***
+Name: Donald Duck
+Email: dduck@mcc.edu
+BannerID: 109202
+Student Type: PartTime
+Major: null
+Remaining Balance: 900.0
+***
+Name: Blue Duck
+Email: bduck@mcc.edu
+BannerID: 109201
+Student Type: PartTime
+Major: Networking Degree
+Remaining Balance: 900.0
+***
+Name: Mickey Mouse
+Email: mmouse@mcc.edu
+BannerID: 109001
+Student Type: FullTime
+Major: Computer Science
+Remaining Balance: 140.23
+***
+Name: Red Riding
+Email: rriding@mcc.edu
+BannerID: 192911
+Student Type: NoMajor
+Major: null
+Remaining Balance: 1198.1
+***
+Name: Popeye Sailor
+Email: psailor@mcc.edu
+BannerID: 109201
+Student Type: PartTime
+Major: Networking Degree
+Remaining Balance: 900.0
+***
+Everything sorted by BannerID and CRN:
+
+
+CRN: 121
+Course Name: Discrete Math
+Credits: 4
+***
+CRN: 127
+Course Name: Java I
+Credits: 3
+***
+CRN: 128
+Course Name: Java II
+Credits: 3
+***
+CRN: 130
+Course Name: Database Design
+Credits: 3
+***
+
+Name: Bob Builder
+Email: bbuilder@mcc.edu
+BannerID: 109001
+Student Type: FullTime
+Major: Computer Science
+Remaining Balance: 140.23
+***
+Name: Mickey Mouse
+Email: mmouse@mcc.edu
+BannerID: 109001
+Student Type: FullTime
+Major: Computer Science
+Remaining Balance: 140.23
+***
+Name: Popeye Sailor
+Email: psailor@mcc.edu
+BannerID: 109201
+Student Type: PartTime
+Major: Networking Degree
+Remaining Balance: 900.0
+***
+Name: Blue Duck
+Email: bduck@mcc.edu
+BannerID: 109201
+Student Type: PartTime
+Major: Networking Degree
+Remaining Balance: 900.0
+***
+Name: Donald Duck
+Email: dduck@mcc.edu
+BannerID: 109202
+Student Type: PartTime
+Major: null
+Remaining Balance: 900.0
+***
+Name: Snow White
+Email: swhite@mcc.edu
+BannerID: 110110
+Title: Professor
+Department: Computer Science
+***
+Name: Red Riding
+Email: rriding@mcc.edu
+BannerID: 192911
+Student Type: NoMajor
+Major: null
+Remaining Balance: 1198.1
+***
+Name: Bob Builder
+Email: bbuilder@mcc.edu
+BannerID: 192911
+Student Type: NoMajor
+Major: null
+Remaining Balance: 1198.1
+***
+Name: Woody Woodpecker
+Email: wwoodpecker@mcc.edu
+BannerID: 192912
+Title: Adjunct
+Department: Physics
+***
+Name: Leo Cappello
+Email: lcappello@mcc.edu
+BannerID: 192913
+Student Type: FullTime
+Major: Comp Sci
+Remaining Balance: 602.32
+***
